@@ -37,9 +37,7 @@ Project/
 │
 ├── notebook/
 │   └── Statistical_Inference_and_Data_Analysis_Project_v2.ipynb
-│       The main notebook. Clean Markdown + LaTeX math cells.
-│       No IPython HTML. Run this for all results.
-│
+│       The main notebook.
 ├── figures/
 │   ├── homo_distribution.png          ← Part 1: OLS estimator distribution
 │   ├── hetero_distribution.png        ← Part 2: OLS vs WLS distributions
@@ -56,9 +54,7 @@ Project/
 │
 ├── report_and_presentation/
 │   ├── Statistical_Inference_and_Data_Analysis_Project_Report.pdf
-│   ├── presentation.pptx
-│   ├── main.tex                       ← LaTeX source for report
-│   └── compact15.tex                  ← LaTeX style file
+│   └── presentation.pptx
 │
 └── CIE 457-Project-Sp2026.pdf         ← original project specification
 ```
